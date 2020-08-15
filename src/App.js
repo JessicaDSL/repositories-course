@@ -1,10 +1,11 @@
 import React from 'react';
 
+import Routes from './routes';
 
 function App() {
   return (
     <div className="App">
-      <h1>ola</h1>
+      <Routes />
     </div>
   );
 }
