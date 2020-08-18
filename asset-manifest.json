@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/repositories-course/static/js/main.c203b903.chunk.js",
+    "main.js.map": "/repositories-course/static/js/main.c203b903.chunk.js.map",
+    "runtime-main.js": "/repositories-course/static/js/runtime-main.9ade9d26.js",
+    "runtime-main.js.map": "/repositories-course/static/js/runtime-main.9ade9d26.js.map",
+    "static/js/2.b4cc088c.chunk.js": "/repositories-course/static/js/2.b4cc088c.chunk.js",
+    "static/js/2.b4cc088c.chunk.js.map": "/repositories-course/static/js/2.b4cc088c.chunk.js.map",
+    "index.html": "/repositories-course/index.html",
+    "precache-manifest.b853add83b0a552d38a2a25e02117396.js": "/repositories-course/precache-manifest.b853add83b0a552d38a2a25e02117396.js",
+    "service-worker.js": "/repositories-course/service-worker.js",
+    "static/js/2.b4cc088c.chunk.js.LICENSE.txt": "/repositories-course/static/js/2.b4cc088c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ade9d26.js",
+    "static/js/2.b4cc088c.chunk.js",
+    "static/js/main.c203b903.chunk.js"
+  ]
+}
